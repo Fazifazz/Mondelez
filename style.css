@@ -599,6 +599,14 @@ img {
     background: none;
   }
 
+  .pe-\[100px\] {
+    padding-right: 0;
+  }
+
+  .ps-\[100px\] {
+    padding-left: 0;
+  }
+
   .container2 {
     max-width: 720px;
   }
