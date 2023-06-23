@@ -50,6 +50,12 @@ body {
   font-weight: normal;
   text-decoration: none;
   color: #000000;
+  font-family: "Calibri";
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.nav-custom-items a:hover{
+  text-decoration: underline;
 }
 
 .svg-icon {
